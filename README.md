@@ -1,6 +1,6 @@
 # Orynik Signature website
 
-Open [home.html](home.html) in a browser. For the admin login to work, open the site through
+Open [index.html](index.html) in a browser. For the admin login to work, open the site through
 a local server (VS Code "Live Server") or upload it to hosting (https). 
 
 ## Admin password
@@ -19,7 +19,7 @@ backend (Firebase, Supabase, Google Sheets) by editing [storage.js](storage.js),
 The pages use the image and video files stored alongside the HTML files in the project root. Keep these files in place when deploying the site; no `assets/` folder is required.
 
 ## Website pages and scripts
-- Pages: [home.html](home.html), [service.html](service.html), [about.html](about.html), [contact.html](contact.html), [faq.html](faq.html), [booknow.html](booknow.html), [admin.html](admin.html)
+- Pages: [index.html](index.html), [service.html](service.html), [about.html](about.html), [contact.html](contact.html), [faq.html](faq.html), [booknow.html](booknow.html), [admin.html](admin.html)
 - Shared styling: [style.css](style.css)
 - Shared scripts: [config.js](config.js), [main.js](main.js)
 - Booking scripts: [storage.js](storage.js), [booking.js](booking.js)
